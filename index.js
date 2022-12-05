@@ -278,11 +278,7 @@ function updateEmployeeRole() {
   });
 }
 function quit() {
-<<<<<<< HEAD
   console.log("Completed!!");
-=======
-  console.log("You're all finished");
->>>>>>> 9480faf5715b847cb5049c2a6e2cffc3f09ebccb
   process.exit();
 }
 
